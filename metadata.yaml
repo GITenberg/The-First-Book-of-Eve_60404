@@ -1,0 +1,41 @@
+_repo: The-First-Book-of-Eve_60404
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: King, Richard
+    alias: Huskinson, Richard King
+    birthdate: 1879
+    deathdate: 1947
+    gutenberg_agent_id: '28413'
+    url: http://www.gutenberg.org/2009/agents/28413
+  illustrator:
+    agent_name: Fish, Anne Harriet
+    aliases:
+    - Fish, Ann Harriet
+    - Sefton, Anne Harriet
+    birthdate: 1890
+    deathdate: 1964
+    gutenberg_agent_id: '49011'
+    url: http://www.gutenberg.org/2009/agents/49011
+    wikipedia: https://en.wikipedia.org/wiki/Anne_Harriet_Fish
+creator:
+  author:
+    agent_name: Fowl
+    alias: Huskinson, Edward
+    birthdate: 1877
+    deathdate: 1941
+    gutenberg_agent_id: '50760'
+    url: http://www.gutenberg.org/2009/agents/50760
+description: ''
+gutenberg_issued: '2019-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The First Book of Eve
+url: http://www.gutenberg.org/ebooks/60404
