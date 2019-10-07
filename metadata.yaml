@@ -1,5 +1,5 @@
 _repo: The-First-Book-of-Eve_60404
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: King, Richard
@@ -18,6 +18,9 @@ contributor:
     gutenberg_agent_id: '49011'
     url: http://www.gutenberg.org/2009/agents/49011
     wikipedia: https://en.wikipedia.org/wiki/Anne_Harriet_Fish
+covers:
+- cover_type: archival
+  image_path: 60404-h/images/cover.jpg
 creator:
   author:
     agent_name: Fowl
@@ -27,6 +30,8 @@ creator:
     gutenberg_agent_id: '50760'
     url: http://www.gutenberg.org/2009/agents/50760
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60404#The-First-Book-of-Eve
 gutenberg_issued: '2019-10-02'
 gutenberg_type: Text
 identifiers:
